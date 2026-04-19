@@ -18,3 +18,13 @@
 
 # \- GitHub-Repo eingerichtet
 
+
+
+\## Nächste Schritte
+
+\- ERD weiter verbessern
+
+\- Benutzer und Rollen prüfen
+
+\- Tipps logisch absichern
+
