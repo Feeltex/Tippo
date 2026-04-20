@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\controllers\\benutzercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\controllers\\benutzercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\models\\spiel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\models\\spiel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\models\\tipp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\models\\tipp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\controllers\\tippscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\controllers\\tippscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\controllers\\spielecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\controllers\\spielecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\models\\mannschaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\models\\mannschaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\models\\rolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\models\\rolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\models\\benutzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\models\\benutzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|c:\\users\\mitte\\desktop\\tippo-github\\tippo.web\\tippo.web\\controllers\\rollencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0EE838-265B-C4E7-5408-BB3B9E9E9CD9}|Tippo.Web\\Tippo.Web.csproj|solutionrelative:tippo.web\\controllers\\rollencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Program.cs",
+              "RelativeToolTip": "Tippo.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:10:28.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Database\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "Tippo.Web\\Database\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:59:55.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mannschaft.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Mannschaft.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Models\\Mannschaft.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Mannschaft.cs",
+              "RelativeToolTip": "Tippo.Web\\Models\\Mannschaft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:49:01.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rolle.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Rolle.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Models\\Rolle.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Rolle.cs",
+              "RelativeToolTip": "Tippo.Web\\Models\\Rolle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:48:28.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Benutzer.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Benutzer.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Models\\Benutzer.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Benutzer.cs",
+              "RelativeToolTip": "Tippo.Web\\Models\\Benutzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:46:55.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RollenController.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\RollenController.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Controllers\\RollenController.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\RollenController.cs",
+              "RelativeToolTip": "Tippo.Web\\Controllers\\RollenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:29:12.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TippsController.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\TippsController.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Controllers\\TippsController.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\TippsController.cs",
+              "RelativeToolTip": "Tippo.Web\\Controllers\\TippsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:28:57.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpieleController.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\SpieleController.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Controllers\\SpieleController.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\SpieleController.cs",
+              "RelativeToolTip": "Tippo.Web\\Controllers\\SpieleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:28:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BenutzerController.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\BenutzerController.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Controllers\\BenutzerController.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Controllers\\BenutzerController.cs",
+              "RelativeToolTip": "Tippo.Web\\Controllers\\BenutzerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:23:49.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Tippo.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\appsettings.json",
+              "RelativeToolTip": "Tippo.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T00:19:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Tippo.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Tippo.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T00:19:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spiel.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Spiel.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Models\\Spiel.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Spiel.cs",
+              "RelativeToolTip": "Tippo.Web\\Models\\Spiel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:49:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tipp.cs",
+              "DocumentMoniker": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Tipp.cs",
+              "RelativeDocumentMoniker": "Tippo.Web\\Models\\Tipp.cs",
+              "ToolTip": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Models\\Tipp.cs",
+              "RelativeToolTip": "Tippo.Web\\Models\\Tipp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:50:55.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

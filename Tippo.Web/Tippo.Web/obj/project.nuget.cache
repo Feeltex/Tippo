@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qN0ggkz4IW4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mitte\\Desktop\\Tippo-Github\\Tippo.Web\\Tippo.Web\\Tippo.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mitte\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\mitte\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.6\\microsoft.entityframeworkcore.10.0.6.nupkg.sha512",
+    "C:\\Users\\mitte\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.6\\microsoft.entityframeworkcore.abstractions.10.0.6.nupkg.sha512",
+    "C:\\Users\\mitte\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.6\\microsoft.entityframeworkcore.analyzers.10.0.6.nupkg.sha512",
+    "C:\\Users\\mitte\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.6\\microsoft.entityframeworkcore.inmemory.10.0.6.nupkg.sha512",
+    "C:\\Users\\mitte\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\mitte\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

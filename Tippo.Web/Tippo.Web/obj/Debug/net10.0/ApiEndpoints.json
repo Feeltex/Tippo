@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "WebServiceTippo.Controllers.BenutzerController",
+    "Method": "GetById",
+    "RelativePath": "api/BenutzerController/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebServiceTippo.Controllers.BenutzerController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/BenutzerController/createaccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoBenutzer",
+        "Type": "Tippo.Web.Models.Benutzer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebServiceTippo.Controllers.BenutzerController",
+    "Method": "GetAll",
+    "RelativePath": "api/BenutzerController/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebServiceTippo.Controllers.BenutzerController",
+    "Method": "GetById",
+    "RelativePath": "api/BenutzerController/test2",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tippo.Web.Controllers.SpieleController",
+    "Method": "CreateGame",
+    "RelativePath": "api/SpielController/creategame",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "spiel",
+        "Type": "Tippo.Web.Models.Spiel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tippo.Web.Controllers.TippsController",
+    "Method": "CreateTipp",
+    "RelativePath": "api/TippController/createtipp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipp",
+        "Type": "Tippo.Web.Models.Tipp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
